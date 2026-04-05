@@ -1,7 +1,7 @@
 # Titanic Survival Prediction
 
 ## Description
-This project predicts whether a passenger survived the Titanic disaster or not using machine learning.
+This project predicts whether a passenger survived the Titanic disaster using machine learning.
 
 ## Dataset
 The dataset contains passenger details like age, gender, class, etc.
