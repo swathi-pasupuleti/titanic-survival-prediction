@@ -21,5 +21,8 @@ The dataset contains passenger details like age, gender, class, etc.
 ## Output
 The model predicts survival and prints accuracy score.
 
+## Model Used
+Logistic Regression from Scikit-learn was used for classification.
+
 ## Result
 Model Accuracy: ~79%
