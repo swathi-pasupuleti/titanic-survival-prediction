@@ -20,3 +20,6 @@ The dataset contains passenger details like age, gender, class, etc.
 
 ## Output
 The model predicts survival and prints accuracy score.
+
+## Result
+Model Accuracy: ~79%
